@@ -1,19 +1,6 @@
 ! Title: Modify Twitter
-! Last modified: %timestamp%
-! Description: |
-!   Changes how the site looks
-! License: https://github.com/Vran-n/uBlock-List/blob/main/LICENSE
-! Homepage: https://github.com/Vran-n/uBlock-List
-
-
-
-! Format: MM/DD/YYYY
-! Changelog:
-! 6/13/2025: line "opacity" has been fixed
-! (cont.) background mask is darker
-! 6/16/2025: smaller hashtags no longer affect the entire tweet in certain scenarios
-
-
+! Last modified: 11/07/2025
+! Description: Smaller more oganised Twitter
 ! compact messages
 x.com##[data-testid="DmScrollerContainer"]>*>*:nth-of-type(1)>*:style(padding-bottom: 10px !important; padding-top: 10px; !important)
 ! "new messages"
