@@ -1,5 +1,5 @@
 ! Title: Modify Twitter
-! Last modified: 11/07/2025
+! Last modified: 11/12/2025
 ! Description: Smaller more oganised Twitter
 ! compact messages
 x.com##[data-testid="DmScrollerContainer"]>*>*:nth-of-type(1)>*:style(padding-bottom: 10px !important; padding-top: 10px; !important)
